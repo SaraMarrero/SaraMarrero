@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Presentacion](./img/Portada.png)
 
 <!--
