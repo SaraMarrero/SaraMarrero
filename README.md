@@ -4,8 +4,11 @@
 
 ## Sobre mí
 💻 Acabo de terminar el ciclo superior de Desarrollo de Aplicaciones Web.
+
 🌱 Siempre estoy aprendiendo y mejorando mis habilidades.
+
 🚀 Me encanta participar en proyectos y descubrir nuevas tecnologías.
+
 ✨ Creo que la calidad del código y la atención a los detalles son súper importantes en todo lo que hago.
 
 ## 🔧 Skills
