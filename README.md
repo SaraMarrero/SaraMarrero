@@ -3,7 +3,7 @@
 ¡Bienvenido a mi rincón en GitHub! Mi nombre es **Sara** y soy **Full-Stack Developer Junior**.
 
 ## Sobre mí
-💻 Acabo de terminar el ciclo superior de Desarrollo de Aplicaciones Web.
+💻 Técnico Superior en Desarrollo de Aplicaciones Web.
 
 🌱 Siempre estoy aprendiendo y mejorando mis habilidades.
 
