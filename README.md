@@ -44,7 +44,7 @@
 ![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 
 ## 📈 GitHub Stats
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraMarrero&show_icons=true&theme=radical)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraMarrero&show_icons=true&theme=radical&v=2)
 
 ## 🚀 Proyectos Destacados
 ### 📍[Game Play](https://github.com/SaraMarrero/Game_play)
