@@ -1,6 +1,6 @@
 # Hola 👋
 
-¡Bienvenido a mi rincón en GitHub! Mi nombre es **Sara** y soy **Full-Stack Developer Junior**.
+¡Bienvenido a mi rincón en GitHub! Mi nombre es **Sara** y soy **Full-Stack Developer**.
 
 ## Sobre mí
 💻 Técnico Superior en Desarrollo de Aplicaciones Web.
